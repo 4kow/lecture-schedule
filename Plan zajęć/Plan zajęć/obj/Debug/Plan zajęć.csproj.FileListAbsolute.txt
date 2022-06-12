@@ -1,0 +1,9 @@
+C:\Users\loku5\Documents\Visual Studio 2019\Projekty\Plan zajęć\Plan zajęć\bin\Debug\Plan zajęć.exe.config
+C:\Users\loku5\Documents\Visual Studio 2019\Projekty\Plan zajęć\Plan zajęć\bin\Debug\Plan zajęć.exe
+C:\Users\loku5\Documents\Visual Studio 2019\Projekty\Plan zajęć\Plan zajęć\bin\Debug\Plan zajęć.pdb
+C:\Users\loku5\Documents\Visual Studio 2019\Projekty\Plan zajęć\Plan zajęć\obj\Debug\Plan zajęć.csprojAssemblyReference.cache
+C:\Users\loku5\Documents\Visual Studio 2019\Projekty\Plan zajęć\Plan zajęć\obj\Debug\Plan_zajęć.Form1.resources
+C:\Users\loku5\Documents\Visual Studio 2019\Projekty\Plan zajęć\Plan zajęć\obj\Debug\Plan_zajęć.Properties.Resources.resources
+C:\Users\loku5\Documents\Visual Studio 2019\Projekty\Plan zajęć\Plan zajęć\obj\Debug\Plan zajęć.csproj.GenerateResource.cache
+C:\Users\loku5\Documents\Visual Studio 2019\Projekty\Plan zajęć\Plan zajęć\obj\Debug\Plan zajęć.exe
+C:\Users\loku5\Documents\Visual Studio 2019\Projekty\Plan zajęć\Plan zajęć\obj\Debug\Plan zajęć.pdb
